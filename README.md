@@ -7,7 +7,10 @@ Para el reto master de la semana 1 se pidio que se elaborara un repositorio en G
 # DevOps
   Unión de personas, procesos y tecnologías para hacer posible la entrega continua de valor a los clientes. La práctica de DevOps une a los equipos de desarrollo y operaciones con el fin de agilizar la entrega de software y crear productos de software más seguros y confiables.
   
-  ##Ventajas de DevOps
+  [# Ventajas de DevOps]
+  
+  
+  
 
 # CONCEPTO 3
   concepto #
