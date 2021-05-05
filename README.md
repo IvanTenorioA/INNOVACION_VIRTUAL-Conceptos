@@ -74,4 +74,5 @@ Para el reto master de la semana 1 se pidio que se elaborara un repositorio en G
  
   
 ---
+Si deseas consultar las fuentes de donde se obtuvo esta informacion [click aqui](https://azure.microsoft.com/es-mx/overview/cloud-computing-dictionary/)
 Si te ha gustado el glosario, puedes hacérmelo saber presionando en la Estrella. 😊
