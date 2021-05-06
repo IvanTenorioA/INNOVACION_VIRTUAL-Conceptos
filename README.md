@@ -1,6 +1,8 @@
 # INNOVACION_VIRTUAL-Conceptos
 Para el reto master de la semana 1 se pidio que se elaborara un repositorio en GitHub que muestre conceptos en manera de glosario, conceptos tecnológicos como La nube, IA, entre otros.
 
+![sistemas-informaticos](https://user-images.githubusercontent.com/83625278/117224341-4ad45200-add5-11eb-93aa-b539f2d1616f.jpg)
+
 ---
 
 ## Almacenamiento en la Nube
