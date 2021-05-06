@@ -81,6 +81,14 @@ Para el reto master de la semana 1 se pidio que se elaborara un repositorio en G
 
 ## Lag
    Es el tiempo / latencia en que tu mandas algo al servidor y este llega a su destino.
+   
+## FRONTEND
+   Es la programación en el cliente.
+   * Hay un solo lenguaje de programación en frontend: JavaScript
+
+## BACKEND
+   Es la programación en el servidor
+   * En backend hay muchos lenguakes de programación que puedes usar.
   
 ---
 Si deseas consultar las fuentes de donde se obtuvo esta informacion [click aqui](https://azure.microsoft.com/es-mx/overview/cloud-computing-dictionary/)
