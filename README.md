@@ -78,7 +78,9 @@ Para el reto master de la semana 1 se pidio que se elaborara un repositorio en G
 
 ## Microsoft Azure
    La plataforma Azure está compuesta por más de 200 productos y servicios en la nube diseñados para ayudarle a dar vida a nuevas soluciones que permitan resolver las dificultades actuales y crear el futuro. Cree, ejecute y administre aplicaciones en varias nubes, en el entorno local y en el perímetro, con las herramientas y los marcos que prefiera.
- 
+
+## Lag
+   Es el tiempo / latencia en que tu mandas algo al servidor y este llega a su destino.
   
 ---
 Si deseas consultar las fuentes de donde se obtuvo esta informacion [click aqui](https://azure.microsoft.com/es-mx/overview/cloud-computing-dictionary/)
